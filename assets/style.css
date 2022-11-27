@@ -43,6 +43,7 @@ p {
     text-align: center;
     font-size: 30px;
     
+    
 
 }
 
@@ -57,6 +58,9 @@ p {
 
 body {
 
-background-color: #669992;
+font-family: Verdana, Arial, Tahoma;    
+background: rgba(92, 206, 226, 0.3)
+
+
 
 }
